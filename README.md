@@ -15,7 +15,7 @@
 - Hallmark Making a Genuine Difference Award 2012
  
 ### Work Experience
-**Data Architect at Quantiphi (_2021 - Current_) 
+Data Architect at Quantiphi (_2021 - Current_) 
 - Designed and developed Data Ingestion and Curation patterns using Dataflow for Data Factory
 - Established standards and best practices for ELT workloads using BQ SQL and Dataform
 - Optimized complex BQ SQL workloads to save an Automobile manufacturer $500K+ /year
