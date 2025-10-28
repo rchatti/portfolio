@@ -1,6 +1,9 @@
 # Solutions Architect
 
-## Skillset: Google Cloud, BigQuery, Dataproc, Dataflow, Dataform, DBT, Snowflake, Databricks, Python, SQL
+## Skillset
+- Platforms: Google Cloud, AWS, Snowflake, Databricks
+- Services: BigQuery, DataProc, Dataflow, Dataform, DBT,
+- Languages: Python, SQL
 
 ### Education, Training and Certifications
 - Bachelor of Engineering, Mechanical Engineering, Anna University (_2002 - 2006_)
